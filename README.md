@@ -26,11 +26,11 @@
 ### 🧰 Languages and Tools:
 
 <p align="left">
-  <img src="https://img.icons8.com/color/48/microsoft-power-bi.png" alt="Power BI" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" height="40"/>
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" height="40"/>
   <img src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="MySQL" height="40"/>
   <img src="https://img.icons8.com/fluency/48/python.png" alt="Python" height="40"/>
-  <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/icons/numpylogo.svg" alt="NumPy" height="40"/>
+  <img src="https://img.icons8.com/color/48/numpy.png" alt="NumPy"/>
   <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Pandas" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" height="40"/>
   <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" alt="Streamlit" height="40"/>

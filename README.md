@@ -51,14 +51,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mep3175&show_icons=true&theme=dark" alt="stats"/>
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mep3175&theme=dark" alt="streak"/>
-</p>
-
 ---
 
 > 💡 *"Data is the new oil, but insights are the refined fuel. I turn raw numbers into real decisions."*
